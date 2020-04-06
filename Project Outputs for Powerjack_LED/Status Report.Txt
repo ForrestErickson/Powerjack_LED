@@ -1,0 +1,28 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:01:15 PM On 4/6/2020
+
+Output: Gerber Files Panel
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Powerjack_LED_panel.PcbDoc]
+   Generated File[Powerjack_LED_panel.GTO]
+   Generated File[Powerjack_LED_panel.GTP]
+   Generated File[Powerjack_LED_panel.GTS]
+   Generated File[Powerjack_LED_panel.GTL]
+   Generated File[Powerjack_LED_panel.GBL]
+   Generated File[Powerjack_LED_panel.GBS]
+   Generated File[Powerjack_LED_panel.GBP]
+   Generated File[Powerjack_LED_panel.GBO]
+   Generated File[Powerjack_LED_panel.GM1]
+   Generated File[Powerjack_LED_panel.GKO]
+   Generated File[Powerjack_LED_panel.1]
+   Generated File[Powerjack_LED_panel.GML]
+   Generated File[Powerjack_LED_panel.RUL]
+   Generated File[Powerjack_LED_panel.EXTREP]
+   Generated File[Powerjack_LED_panel.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 4:01:34 PM On 4/6/2020
